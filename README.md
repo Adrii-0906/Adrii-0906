@@ -51,9 +51,8 @@
 <a target="_blank" href="https://www.linkedin.com/in/adri%C3%A1n-ra%C3%B1a-b3a517356/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 
 <div align="center">
-<h2>Github stats:</h2> 
+<h2>By the way, here are some of my statistics 🚀</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=Adrii-0906&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Adrii-0906)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Adrii-0906&theme=material-palenight)](https://github.com/Adrii-0906)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrii-0906&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img height= "150" src="https://github-readme-stats.vercel.app/api?username=Adrii-0906&show_icons=true&theme=tokyonight&hide_border=true&locale=en"/>
+<img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrii-0906&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
