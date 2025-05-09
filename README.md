@@ -9,7 +9,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new programming languages`.
-- :boom: You can visit [MY WEBSITE](https://adrii-0906.github.io/).
+- :boom: You can visit [my website](https://adrii-0906.github.io/).
 <br>
 <h1>My Skills Include</h1>
 
